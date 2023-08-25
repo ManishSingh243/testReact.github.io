@@ -1,0 +1,22 @@
+.fas{
+    font-size: 24px;
+}
+
+table, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#continue{
+    background-color: blue;
+}
+
+#gap{
+    margin-top: 40px;
+}
+
+button{
+    border: 1px solid white;
+    background-color: white;
+}
